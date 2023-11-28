@@ -1,2 +1,2 @@
 # html-css
-Curso básico de html 5 e css
+Curso HTML e CSS realizado em alura.com.br
